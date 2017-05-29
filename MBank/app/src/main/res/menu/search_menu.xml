@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  	xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+    	android:title="@string/menuSubmitTitle"
+    	android:id="@+id/searchMenuItemSubmit"
+    	android:icon="@android:drawable/ic_menu_upload">
+    </item>
+    
+    <item
+    	android:title="@string/menuClearTitle"
+    	android:id="@+id/searchMenuItemClear"
+    	android:icon="@drawable/ic_menu_refresh">
+    </item>
+    
+    <item
+    	android:title="@string/menuHomeTitle"
+    	android:id="@+id/searchMenuItemHome"
+    	android:icon="@drawable/ic_menu_home">
+    </item>
+    
+</menu>

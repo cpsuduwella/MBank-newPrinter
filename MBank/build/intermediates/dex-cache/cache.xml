@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25d549523c52ea02f3d08b63731fcad95c680d3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f116dcdc4ef8bb543767a9638f5e5d4429d0f845">
+        <dex dex="/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_22dbc537e153afa7dd71d8bebbb5b347c273108f/classes.dex" />
+    </item>
+
+</items>

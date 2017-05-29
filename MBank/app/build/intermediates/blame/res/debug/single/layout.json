@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/mbank_aboutus_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/mbank_aboutus_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/transaction_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/transaction_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/mbank_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/mbank_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/contact_info_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/contact_info_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/mbank_summary_tab_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/mbank_summary_tab_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/search_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/search_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/search_result_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/search_result_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/client_detail_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/client_detail_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/search_result_row_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/search_result_row_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/transaction_detail_row_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/transaction_detail_row_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/client_details_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/client_details_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/client_detail_row_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/client_detail_row_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/all_transaction_list_row_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/all_transaction_list_row_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/mbank_contactus_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/mbank_contactus_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/sync_transaction_list_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/sync_transaction_list_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/sync_transaction_list_row_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/sync_transaction_list_row_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/mbank_gridview_row_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/mbank_gridview_row_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/day_summary_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/day_summary_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/transaction_details_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/transaction_details_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/transaction_detail_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/transaction_detail_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/mbank_transaction_tab_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/mbank_transaction_tab_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/all_transaction_list_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/all_transaction_list_layout.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/layout/contact_location_layout.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/layout/contact_location_layout.xml"
+    }
+]

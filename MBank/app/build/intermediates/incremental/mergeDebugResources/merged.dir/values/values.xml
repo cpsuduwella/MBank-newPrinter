@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="address">university of colombo\nschool of computing\nreaid avenue\ncolombo 07</string>
+    <string name="app_name">MBank</string>
+    <string name="configurationActivityLable">Printer details</string>
+    <string name="email">score@ucsc.lk\nwasn@ucsc.lk</string>
+    <string name="first_para">SCoRe has conducted research covering various aspects of wireless sensor networks, embeded systems digital forensic, information security, mobile applications and e-learning.</string>
+    <string name="intro">Mobile bank is a commertial product of University of Colombo School of Computing(UCSC) SCoRe gruop</string>
+    <string name="mbankActivityLable">MBank</string>
+    <string name="menuClearTitle">Clear</string>
+    <string name="menuConfigurationTitle">Configuration</string>
+    <string name="menuHomeTitle">Home</string>
+    <string name="menuLogoutTitle">Logout</string>
+    <string name="menuPrefsTitle">Preference</string>
+    <string name="menuPrintTitle">Print</string>
+    <string name="menuSelectTitle">Select</string>
+    <string name="menuSubmitTitle">Submit</string>
+    <string name="menuSyncTitle">Sync</string>
+    <string name="prefsActivityLable">Login details</string>
+    <string name="second_para">The goal of our research is to generate computing solutions through identifying low cost methodologies and strategies that lead to sustainability.</string>
+    <string name="telephone">0775432015\n0334982080\n0113456748</string>
+    <string name="web">http://score.ucsc.lk\nhttp://ucsc.lk</string>
+</resources>

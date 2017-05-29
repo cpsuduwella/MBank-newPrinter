@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    
+    <ImageView
+    	android:id="@+id/sync_transaction_list_icon"
+    	android:layout_width="wrap_content"
+		android:layout_gravity="center_vertical"
+	   	android:padding="14dp"
+	   	android:layout_height="wrap_content">
+    </ImageView>
+    
+    <LinearLayout
+	    android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	   	android:layout_gravity="center_vertical"
+	   	android:layout_weight="1"
+	   	android:paddingLeft="5dp"
+	   	android:paddingRight="3dp">   
+    
+    	<TextView 
+    		android:id="@+id/sync_transaction_list_client_name"
+    		android:layout_width="fill_parent"
+	        android:textSize="16dp"
+	        android:layout_height="fill_parent"
+	        android:textStyle="bold">
+    	
+    	</TextView>
+    	
+    	<LinearLayout
+    		android:layout_height="fill_parent"
+    		android:layout_width="fill_parent"
+    		android:orientation="horizontal">
+    		
+	    	<TextView 
+	    		android:id="@+id/sync_transactino_list_client_account_no"
+	    		android:layout_width="fill_parent" 
+	    		android:layout_height="fill_parent"
+	    		android:textSize="15dp"
+	    		android:layout_weight="1">
+	    	</TextView>
+	    	
+	    	<TextView
+	    		android:id="@+id/sync_transactino_list_transaction_amount"
+	    		android:layout_width="wrap_content"
+	    		android:layout_height="fill_parent"
+	    		android:textSize="15dp">
+	    	</TextView> 	
+	    	
+    	</LinearLayout>
+    
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <LinearLayout
+  	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:orientation="vertical"
+  	android:layout_width="fill_parent"
+  	android:layout_height="fill_parent">
+  	
+  	<RelativeLayout
+    	android:layout_width="fill_parent"
+    	android:layout_height="50dp"
+    	android:background="#5ea628">
+    	
+    	<Button
+        	android:id="@+id/btnButton1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:background="@drawable/home2"
+        	android:layout_marginLeft="5dp"
+        	android:layout_marginTop="10dp">
+        </Button>
+    	
+    	<TextView
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:text="Patient Recorder"
+    		android:textSize="20dp"
+    		android:textStyle="italic"
+    		android:layout_toRightOf="@+id/btnButton1"
+    		android:layout_centerVertical="true"
+    		android:typeface="serif"
+    		android:layout_marginLeft="15dp">
+    	</TextView>
+    	
+  	</RelativeLayout>
+  	
+  	<LinearLayout
+  		android:layout_width="fill_parent"
+  		android:layout_height="fill_parent"
+  		android:gravity="center"
+  		android:layout_weight="1">
+  	
+	  	<GridView
+	    	android:layout_height="wrap_content"
+	    	android:layout_width="fill_parent"
+	    	android:id="@+id/mbankGridView"
+	    	android:numColumns="auto_fit"
+	    	android:horizontalSpacing="5dp"
+	    	android:columnWidth="150dp"
+	    	android:verticalSpacing="20dp">
+	    </GridView>
+	    
+    </LinearLayout>
+    
+</LinearLayout> -->
+
+<LinearLayout
+  	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:orientation="vertical"
+  	android:layout_width="fill_parent"
+  	android:layout_height="fill_parent"
+  	android:background="#FFFFFF">
+  	
+  	<!-- <RelativeLayout
+    	android:layout_width="fill_parent"
+    	android:layout_height="50dp"
+    	android:background="#f79239">
+    	
+    	<Button
+        	android:id="@+id/child_recorder_layout_home_button"
+        	android:layout_width="30dp"
+        	android:layout_height="30dp"
+        	android:background="@drawable/contact"
+        	android:layout_marginLeft="5dp"
+        	android:layout_marginTop="8dp">
+        </Button>
+    	
+    	<TextView
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:text="@string/child_recorder_layout_home_text"
+    		android:textSize="20dp"
+    		android:layout_toRightOf="@+id/child_recorder_layout_home_button"
+    		android:layout_centerVertical="true"
+    		android:layout_marginLeft="15dp">
+    	</TextView>
+    	
+  	</RelativeLayout>  -->
+  	
+  	<RelativeLayout
+    	android:layout_width="fill_parent"
+    	android:layout_height="50dp"
+    	android:background="#5a708c">
+    	
+    	<RelativeLayout
+    		android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		android:layout_alignParentLeft="true">
+    	
+	    	<Button
+	        	android:id="@+id/child_recorder_layout_home_button"
+	        	android:layout_width="32dp"
+	        	android:layout_height="32dp"
+	        	android:background="@drawable/app_contact"
+	        	android:layout_centerVertical="true"
+	        	android:layout_marginLeft="5dp">
+	        </Button>
+	    	
+	    	<TextView
+	    		android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"
+	    		android:text="Mobile Bank"
+	    		android:textSize="20dp"
+	    		android:layout_toRightOf="@+id/child_recorder_layout_home_button"
+	    		android:layout_centerVertical="true"
+	    		android:layout_marginLeft="15dp">
+	    	</TextView>
+	    	
+	    </RelativeLayout>
+	    	
+    	<Button
+        	android:id="@+id/child_recorder_layout_logout_button"
+        	android:layout_width="32dp"
+        	android:layout_height="32dp"
+        	android:background="@drawable/logout_button_selector"
+        	android:layout_marginRight="10dp"
+        	android:layout_centerVertical="true"
+        	android:layout_alignParentRight="true"
+        	android:clickable="true">
+        </Button>
+	        
+  	</RelativeLayout>
+
+	<LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:layout_weight="1">
+
+        <GridView
+          android:layout_height="wrap_content"
+          android:layout_width="fill_parent"
+          android:id="@+id/mbankGridView"
+          android:numColumns="auto_fit"
+          android:horizontalSpacing="5dp"
+          android:columnWidth="140dp"
+          android:verticalSpacing="20dp">
+      </GridView>
+
+  </LinearLayout>
+
+</LinearLayout>

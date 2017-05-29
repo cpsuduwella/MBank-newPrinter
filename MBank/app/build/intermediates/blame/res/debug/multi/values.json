@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 104,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1281,
+                        "endColumn": 104,
+                        "endOffset": 1381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 42,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 70,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 70,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 61,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1528,
+                        "endColumn": 61,
+                        "endOffset": 1585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 213,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 213,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 132,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 132,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 52,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 52,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 48,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 48,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 64,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 64,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 46,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 46,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 50,
+                    "endOffset": 943
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 50,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 948,
+                    "endColumn": 53,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 53,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 48,
+                    "endOffset": 1046
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 48,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1051,
+                    "endColumn": 50,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 50,
+                        "endOffset": 532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 50,
+                    "endOffset": 1148
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 50,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1153,
+                    "endColumn": 46,
+                    "endOffset": 1195
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 46,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1200,
+                    "endColumn": 60,
+                    "endOffset": 1256
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 60,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1261,
+                    "endColumn": 186,
+                    "endOffset": 1443
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endColumn": 186,
+                        "endOffset": 1276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1448,
+                    "endColumn": 72,
+                    "endOffset": 1516
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1386,
+                        "endColumn": 72,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1521,
+                    "endColumn": 68,
+                    "endOffset": 1585
+                },
+                "from": {
+                    "file": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 68,
+                        "endOffset": 1523
+                    }
+                }
+            }
+        ]
+    }
+]

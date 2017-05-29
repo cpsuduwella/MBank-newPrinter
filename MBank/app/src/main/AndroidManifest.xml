@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    package="wasn.mbank.activities"
+    android:versionCode="1"
+    android:versionName="1.0">
+    
+    <uses-sdk android:minSdkVersion="8" />
+
+    <application
+    	android:icon="@drawable/iphoneg" 
+    	android:label="@string/app_name"							
+    	android:theme="@android:style/Theme.Black"
+    	android:name="wasn.mbank.application.MBankApplication"
+    	android:debuggable="true">
+    	
+    	<uses-library android:name="com.google.android.maps" /> 	
+        
+        <activity android:name=".MBankActivity"
+                  android:label="@string/mbankActivityLable"
+                  android:theme="@android:style/Theme.Light.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+        	android:name=".PrefsActivity"
+        	android:label="@string/prefsActivityLable">
+        </activity>
+        
+        <activity
+        	android:name=".ConfigurationActivity"
+        	android:label="@string/configurationActivityLable">
+        </activity>
+        
+        <activity android:name=".MBankAboutusActivity" />
+        
+        <activity android:name=".MBankContactusActivity" />
+        <activity android:name=".ContactInfoActivity" />
+        <activity android:name=".ContactLocationActivity" />
+        
+        <activity android:name=".MBankTransactionActivity" />
+        <activity android:name=".TransactionActivity" />
+        <activity android:name=".SearchActivity" />
+        <activity android:name=".SearchResultActivity" />
+        
+        <activity 
+        	android:name=".ClientDetailsActivity" 
+        	android:theme="@android:style/Theme.Black"
+        	android:icon="@drawable/home_icon"
+        	android:label="Client info"/>
+        
+        <activity 
+        	android:name=".TransactionDetailsActivity" 
+        	android:theme="@android:style/Theme.Black"
+        	android:icon="@drawable/email1_icon"
+        	android:label="Transaction info"/>
+        	
+        <activity 
+        	android:name=".SyncTransactionListActivity"
+        	android:theme="@android:style/Theme.Black"/>
+        	
+        <activity android:name=".MBankSummaryActivity"/>
+        <activity android:name=".AllTransactionListActivity"/>
+        <activity android:name=".DaySummaryActivity"/>
+        													
+    </application>						
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+    
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+	<uses-permission android:name="android.permission.BLUETOOTH" /> 
+    
+</manifest>

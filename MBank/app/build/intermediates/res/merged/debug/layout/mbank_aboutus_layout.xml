@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView 
+	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent">
+		
+		<LinearLayout   	
+			android:layout_width="fill_parent"
+		  	android:layout_height="wrap_content"
+		  	android:orientation="horizontal"
+		  	android:paddingTop="10dp"
+		  	android:paddingBottom="10dp">
+		
+			<ImageView
+		    	android:id="@+id/weather_icon"
+		    	android:paddingLeft="20dp"
+		    	android:paddingRight="5dp"
+		    	android:layout_width="100dp"
+		    	android:src="@drawable/file_icon" 
+		    	android:layout_gravity="center_vertical"
+		    	android:layout_height="90dp">
+		    </ImageView>
+		    
+		    <TextView
+		    	android:text="@string/intro"
+		    	android:layout_width="fill_parent"
+		  		android:layout_height="wrap_content"
+		  		android:paddingRight="10dp"
+		  		android:paddingLeft="10dp"
+		  		android:layout_gravity="center" 
+		  		android:textSize="15dp"
+		  		android:typeface="serif">
+		    </TextView>
+		    
+		</LinearLayout>
+	
+		<LinearLayout   	
+			android:layout_width="fill_parent"
+		  	android:layout_height="wrap_content"
+		  	android:orientation="horizontal"
+		  	android:layout_marginTop="15dp">
+		
+			<ImageView
+		    	android:id="@+id/weather_icon"
+		    	android:paddingLeft="20dp"
+		    	android:paddingRight="5dp"
+		    	android:layout_width="100dp"
+		    	android:layout_gravity="center_vertical"
+		    	android:src="@drawable/about_64" 
+		    	android:layout_height="90dp">
+		    </ImageView>
+		    
+		    <TextView
+		    	android:text="@string/first_para"
+		    	android:layout_width="fill_parent"
+		  		android:layout_height="wrap_content"
+		  		android:paddingRight="10dp"
+		  		android:paddingLeft="10dp"
+		  		android:layout_gravity="center" 
+		  		android:textSize="15dp"
+		  		android:typeface="serif">
+		    </TextView>
+		    
+		</LinearLayout>
+		
+		<LinearLayout   	
+			android:layout_width="fill_parent"
+		  	android:layout_height="wrap_content"
+		  	android:orientation="horizontal"
+		  	android:layout_marginTop="20dp">
+		
+			<ImageView
+		    	android:id="@+id/weather_icon"
+		    	android:paddingLeft="20dp"
+		    	android:paddingRight="5dp"
+		    	android:layout_width="100dp"
+		    	android:layout_gravity="center_vertical"
+		    	android:src="@drawable/aim_64" 
+		    	android:layout_height="90dp"
+		    	android:paddingTop="5dp">
+		    </ImageView>
+		    
+		    <TextView
+		    	android:text="@string/second_para"
+		    	android:layout_width="fill_parent"
+		  		android:layout_height="wrap_content"
+		  		android:paddingRight="10dp"
+		  		android:paddingLeft="10dp"
+		  		android:layout_gravity="center" 
+		  		android:textSize="15dp"
+		  		android:typeface="serif">
+		    </TextView>
+		    
+		</LinearLayout>
+		
+	
+	</LinearLayout>
+	
+</ScrollView>

@@ -1,0 +1,4 @@
+#Mon May 29 11:43:31 IST 2017
+base.0=/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3
+renamed.0=classes.dex
+file.0=/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex

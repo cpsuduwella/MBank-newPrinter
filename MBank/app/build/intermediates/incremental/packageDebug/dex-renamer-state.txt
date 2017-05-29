@@ -1,0 +1,7 @@
+#Mon May 29 11:43:31 IST 2017
+base.0=/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_22dbc537e153afa7dd71d8bebbb5b347c273108f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25d549523c52ea02f3d08b63731fcad95c680d3b/classes.dex
+base.1=/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25d549523c52ea02f3d08b63731fcad95c680d3b
+file.0=/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_22dbc537e153afa7dd71d8bebbb5b347c273108f/classes.dex

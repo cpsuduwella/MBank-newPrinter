@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <ScrollView 
+	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+
+	<LinearLayout
+	  	android:orientation="vertical"
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="fill_parent"
+	  	android:padding="5dp">
+	    
+	    <TextView 
+	    	android:text="Account No"
+	    	android:id="@+id/account_no_lable" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+	    	android:textSize="20dp" 
+	    	android:layout_marginLeft="31dp" 
+	    	android:layout_marginTop="20dp">
+	    
+	    </TextView>
+	    
+	    <EditText
+	    	android:id="@+id/account_no_text"  
+			android:layout_height="wrap_content"
+			android:layout_width="fill_parent"		
+			android:inputType="number" 
+			android:layout_marginLeft="30dp" 
+			android:layout_marginRight="30dp" 
+			android:textSize="20dp">   
+		</EditText>
+		
+		<TextView 
+	    	android:text="Amount"
+	    	android:id="@+id/transaction_amount_lable" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+	    	android:textSize="20dp" 
+	    	android:layout_marginTop="10dp" 
+	    	android:layout_marginLeft="31dp">
+	    </TextView>
+	    
+	    <EditText
+	   		android:id="@+id/transaction_amount_text"
+			android:layout_height="wrap_content"
+			android:layout_width="fill_parent"  
+			android:inputType="number" 
+			android:layout_marginLeft="30dp" 
+			android:layout_marginRight="30dp" 
+			android:textSize="20dp">   
+		</EditText>
+		
+		<TextView 
+	    	android:text="Transaction type"
+	    	android:id="@+id/transction_type_lable" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+	    	android:textSize="20dp" 
+	    	android:layout_marginTop="10dp" 
+	    	android:layout_marginLeft="31dp">
+	    
+	    </TextView>
+	    
+		<RadioGroup 
+			android:id="@+id/transaction_type_radiogroup" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:layout_marginLeft="30dp">
+			
+			<RadioButton 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:id="@+id/transction_type_deposit" 
+				android:text=" Deposit" 
+				android:checked="true"
+				android:textSize="18dp">
+			</RadioButton>
+			
+			<RadioButton 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:id="@+id/transction_type_withdraw" 
+				android:text=" Withdraw"
+				android:textSize="18dp">
+			</RadioButton>
+			
+		</RadioGroup>
+	    
+	</LinearLayout>
+
+</ScrollView> -->
+
+<ScrollView 
+	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:id="@+id/search_layout_scrollview"
+	android:background="#FFFFFF">
+
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		
+		<RelativeLayout
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="50dp"
+	    	android:background="#5a708c">
+	    	
+	    	<Button
+	        	android:id="@+id/child_recorder_layout_home_button"
+	        	android:layout_width="32dp"
+	        	android:layout_height="32dp"
+	        	android:background="@drawable/search_icon"
+	        	android:layout_marginLeft="5dp"
+	        	android:layout_marginTop="8dp">
+	        </Button>
+	    	
+	    	<TextView
+	    		android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"
+	    		android:text="Transaction"
+	    		android:textSize="20dp"
+	    		android:layout_toRightOf="@+id/child_recorder_layout_home_button"
+	    		android:layout_centerVertical="true"
+	    		android:layout_marginLeft="15dp">
+	    	</TextView>
+	    	
+	  	</RelativeLayout>
+		
+		<LinearLayout
+		  	android:orientation="vertical"
+		  	android:layout_width="fill_parent"
+		  	android:layout_height="fill_parent"
+		  	android:padding="5dp">
+			
+			<TextView 
+		    	android:text="Account No"
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+		    	android:textSize="17dp" 
+		    	android:layout_marginLeft="31dp" 
+		    	android:layout_marginTop="5dp"
+		    	android:textColor="#000000">
+		    </TextView>
+		    
+		    <EditText
+				android:layout_height="wrap_content"
+				android:id="@+id/account_no_text"  
+				android:layout_width="fill_parent"  
+				android:inputType="text" 
+				android:layout_marginLeft="30dp"
+				android:layout_marginRight="30dp"
+				android:textSize="20dp">
+			</EditText>
+			
+			<TextView 
+		    	android:text="Amount"
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+		    	android:textSize="17dp" 
+		    	android:layout_marginTop="5dp" 
+		    	android:layout_marginLeft="31dp"
+		    	android:textColor="#000000">
+		    
+		    </TextView>
+		    
+		    <EditText
+				android:layout_height="wrap_content"
+				android:id="@+id/transaction_amount_text"
+				android:layout_width="fill_parent"  
+				android:inputType="text" 
+				android:layout_marginLeft="30dp" 
+				android:layout_marginRight="30dp" 
+				android:textSize="20dp">   
+			</EditText>
+			
+			<TextView 
+		    	android:text="Transaction type"
+		    	android:id="@+id/nic_lable" 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+		    	android:textSize="17dp" 
+		    	android:layout_marginTop="5dp" 
+		    	android:layout_marginLeft="31dp"
+		    	android:textColor="#000000">
+		    
+		    </TextView>
+			
+			<RadioGroup 
+				android:id="@+id/transaction_type_radiogroup" 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:orientation="vertical"
+				android:layout_marginLeft="27dp">
+				
+				<RadioButton 
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content" 
+					android:id="@+id/transction_type_deposit" 
+					android:text=" Deposit" 
+					android:textColor="#000000"
+					android:checked="true"
+					android:textSize="18dp">
+				</RadioButton>
+				
+				<RadioButton 
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content" 
+					android:id="@+id/transction_type_withdraw" 
+					android:textColor="#000000"
+					android:text=" Withdraw"
+					android:textSize="18dp">
+				</RadioButton>
+			
+			</RadioGroup>
+		    
+		</LinearLayout>
+		
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal"
+			android:layout_marginTop="10dp"
+			android:layout_marginBottom="10dp">
+	
+		</LinearLayout>
+		
+	</LinearLayout>
+
+</ScrollView>
+

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/menu/day_summary_menu.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/menu/day_summary_menu.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/menu/sync_transaction_menu.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/menu/sync_transaction_menu.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/menu/client_detail_menu.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/menu/client_detail_menu.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/menu/all_transaction_menu.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/menu/all_transaction_menu.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/menu/transaction_menu.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/menu/transaction_menu.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/menu/mbank_menu.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/menu/mbank_menu.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/menu/transaction_detail_menu.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/menu/transaction_detail_menu.xml"
+    },
+    {
+        "merged": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/build/intermediates/res/merged/debug/menu/search_menu.xml",
+        "source": "/home/senz/SANASA_APPS/Mobile_App/MBank-Android-SUNMI_V1/copy MBank May 04/MBank/app/src/main/res/menu/search_menu.xml"
+    }
+]
